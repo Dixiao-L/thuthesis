@@ -6,6 +6,10 @@
 
 ## [Unreleased]
 
+### Changed
+
+- [ ] 按照本科生 2026 年 Word 模板更新封面的布局（[#1063](https://github.com/tuna/thuthesis/discussions/1063)）。
+
 ## [v7.7.1] - 2026-05-26
 
 ### Added
